@@ -1,0 +1,14 @@
+#showcase {
+  background: url('/img/gate.jpg') center / cover no-repeat;
+  position: relative;
+  min-height: 750px;
+}
+.bg-custom {
+  background-color: #1f1f1f;
+}
+.carousel-item {
+  height: 450px;
+}
+.navbar-fixed-top {
+  top: -70px;
+}
